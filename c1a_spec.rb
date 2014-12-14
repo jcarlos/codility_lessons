@@ -1,5 +1,5 @@
 require 'rspec'
-require './c1.rb'
+require './c1a.rb'
 
 describe 'solution' do
   it "#solution" do
